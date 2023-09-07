@@ -42,6 +42,7 @@ const estilos = StyleSheet.create({
         fontSize: 20,
         paddingHorizontal: 10,
         textAlign: 'center'
+        
 
         
     },texto2: {
@@ -51,12 +52,16 @@ const estilos = StyleSheet.create({
         textAlign: 'center'
         
     }, Image1: {
-        width: 470,
-        height: 200
+        justifyContent:'center',
+        alignItems: 'center',
+        width: 300,
+        height: 200,
     },
     Image2: {
-        width: 465,
-        height: 490
+        width: 300,
+        height: 300,
+        alignItems: 'center',
+        alignContent: 'center'
     }
 
 
