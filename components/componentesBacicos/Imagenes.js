@@ -52,16 +52,13 @@ const estilos = StyleSheet.create({
         textAlign: 'center'
         
     }, Image1: {
-        justifyContent:'center',
-        alignItems: 'center',
         width: 300,
         height: 200,
     },
     Image2: {
         width: 300,
         height: 300,
-        alignItems: 'center',
-        alignContent: 'center'
+
     }
 
 
